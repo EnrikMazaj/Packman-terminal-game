@@ -1,6 +1,7 @@
 Compile: g++ main.cpp GameObject.cpp Prize.cpp Player.cpp AutoPlayer.cpp Labyrinth.cpp GameEngine.cpp -o game -lncurses 
 
 There are 2 maps you can choose to play the game map.txt and map2.txt 
+
 Run: ./game map.txt 
 
 
